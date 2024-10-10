@@ -12,7 +12,7 @@ title                    : "Mitia Oberti"
 title_separator          : "-"
 name                     : &name "Mitia Oberti"
 description              : &description "PhD Candidate in Economics at CREST (ENSAE - IP Paris)"
-url                      : https://mitiaoberti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mitiaobt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
