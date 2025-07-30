@@ -90,8 +90,10 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+  width: 175px;     // pick any square size you like
+  height: 175px;
+  object-fit: cover; // fills the square, crops excess
+  border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
