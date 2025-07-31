@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-- [Econometrics 1](https://www.ensae.fr/en/courses/econometrics-1/), ENSAE (Graduate level, Fall 2024)
+- [Econometrics 1](https://www.ensae.fr/en/courses/145), ENSAE (Graduate level, Fall 2024)
   - <small>TA for Pr. Xavier d'Haultfoeuille<small> 
   - <small>Introduces students to linear regressions, the notion of causality and predictions. It shows how and under which conditions causal parameters can be identified and estimated from random samples (focus on OLS and 2SLS)<small>
   
