@@ -79,11 +79,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-
-  // set width only, for non-square avatars
-
-  // height: 36px;
+  width: 36px; 
 
   @include breakpoint($large) {
     display: block;
@@ -91,14 +87,18 @@
     height: auto;
   }
 
-
   img {
-  width: 175px;     // pick any square size you like
-  height: 175px;
-  object-fit: cover; // fills the square, crops excess
-  border-radius: 50%;
+    /* --- Mobile (Default) --- */
+    /* Use the container's width (36px) and auto height to keep it square */
+    width: 100%;      
+    height: auto;     
+    border-radius: 50%;
+    object-fit: cover; 
 
+    /* --- Desktop (Large Screens) --- */
     @include breakpoint($large) {
+      width: 175px;      /* Your desired desktop size */
+      height: 175px;
       padding: 5px;
       border: 1px solid $border-color;
     }
