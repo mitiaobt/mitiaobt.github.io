@@ -15,13 +15,19 @@ redirect_from:
   <details>
     <summary><small><u>Abstract</u></small></summary>  
     <small>
-      Theory suggests that job seekers set the level and direction of their search effort to maximize expected returns in the labor market. Yet this is a complex task as job seekers must process and interpret a large amount of information to form perceptions about the parameters that determine these returns. In addition, the current sanitary crisis may have exacerbated uncertainty about these labor market parameters. In this study, we explore if these perceptions are accurate and whether changing perceptions has an impact on job search behavior and job finding. Through a series of survey experiments, we measure baseline beliefs and then experimentally vary the provision of stylized and personalized information on the “true” parameters in a job seeker’s micro market. We then observe the impact of this information on three main outcomes: 1. updated beliefs about the local labor market, 2. search behavior, 3. employment outcomes.
+      Misperceptions about wages and labor demand may distort job search, but whether correcting them changes search behavior, and through which channel, remains an open question. In a field experiment with 63,670 French job seekers, we provide personalized information about wages and labor market tightness in their targeted occupation and district. We document wide dispersion in baseline beliefs: only 41% of respondents estimate wages within 10% of the true value. Information provision causally shifts beliefs, though most treated respondents either fully incorporate the signal or ignore it entirely. Treatment increases vacancy inspection by 24%, but instrumental variables estimates reveal no pass-through from belief revision to search behavior, and explicit information about higher-wage outside options does not redirect search across markets. The behavioral response operates through increased attention among already-active searchers rather than through corrected expectations.
     </small>
   </details>  
   <br>
 
-- Assessing and Signaling Skills: The Impact of Candidate Skill Measurement on Hiring Decisions <br>
-  <small>with [R. Rathelot](http://rolandrathelot.com/)</small>  
+- The Role of Information about Worker Skills in Hiring Decisions  
+  <small>with [M. Brouard](https://sites.google.com/view/marionbrouard/home) and [R. Rathelot](http://rolandrathelot.com/)</small>  
+  <details>
+    <summary><small><u>Abstract</u></small></summary>  
+    <small>
+      Labour markets differ widely in candidate availability and quality across occupations. In tight occupations, firms face few qualified applicants per vacancy and may struggle to identify productive candidates, especially when applicants come from distant occupations where skill signals are less clear. In slack occupations, recruiters face many applicants and screening becomes more selective. These differences may shape not only hiring decisions, but also the value of additional information about job seekers' skills. We study these mechanisms using an incentivised resume-rating (IRR) experiment with recruiters. Each recruiter evaluates synthetic CVs tailored to their hiring occupation. We experimentally vary education, work experience (in terms of occupational distance between experience and hiring occupation), skill certificates, as well as gender and ethnicity signals within recruiters. We also randomise the quality of the applicant pool between recruiters. We study the impact of these signals on the way recruiters assess productivity, and on their callback decisions.
+    </small>
+  </details>  
   <br>
 
 - Labor Market Integration of Foreign Workers
