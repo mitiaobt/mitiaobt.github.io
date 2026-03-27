@@ -11,7 +11,7 @@ redirect_from:
 ## Work in Progress
 
 - [Providing Job Seekers with Labor Market Information](https://www.socialscienceregistry.org/trials/6993)  
-  <small>with [B. Crepon](https://sites.google.com/site/brunocrepon/), [D. Glover](https://sites.google.com/site/dylanglover/home?authuser=0), M. Hoffman, E. Perennes, and [B. Petrongolo](https://sites.google.com/site/barbarapetrongolo/home)</small>  
+  <small>with [B. Crepon](https://sites.google.com/site/brunocrepon/), [D. Glover](https://sites.google.com/site/dylanglover/home?authuser=0), [M. Hoffman](https://morganehoffmann.github.io/), E. Perennes, and [B. Petrongolo](https://sites.google.com/site/barbarapetrongolo/home)</small>  
   <details>
     <summary><small><u>Abstract</u></small></summary>  
     <small>
