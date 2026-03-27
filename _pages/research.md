@@ -20,8 +20,14 @@ redirect_from:
   </details>  
   <br>
 
-- Assessing and Signaling Skills: The Impact of Candidate Skill Measurement on Hiring Decisions <br>
-  <small>with [R. Rathelot](http://rolandrathelot.com/)</small>  
+- The Role of Information about Worker Skills in Hiring Decisions  
+  <small>with [M. Brouard](https://sites.google.com/view/marionbrouard/home) and [R. Rathelot](http://rolandrathelot.com/)</small>  
+  <details>
+    <summary><small><u>Abstract</u></small></summary>  
+    <small>
+      Labour markets differ widely in candidate availability and quality across occupations. In tight occupations, firms face few qualified applicants per vacancy and may struggle to identify productive candidates, especially when applicants come from distant occupations where skill signals are less clear. In slack occupations, recruiters face many applicants and screening becomes more selective. These differences may shape not only hiring decisions, but also the value of additional information about job seekers' skills. We study these mechanisms using an incentivised resume-rating (IRR) experiment with recruiters. Each recruiter evaluates synthetic CVs tailored to their hiring occupation. We experimentally vary education, work experience (in terms of occupational distance between experience and hiring occupation), skill certificates, as well as gender and ethnicity signals within recruiters. We also randomise the quality of the applicant pool between recruiters. We study the impact of these signals on the way recruiters assess productivity, and on their callback decisions.
+    </small>
+  </details>  
   <br>
 
 - Labor Market Integration of Foreign Workers
