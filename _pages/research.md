@@ -30,7 +30,7 @@ redirect_from:
   </details>  
   <br>
 
-- Labor Market Integration of Foreign Workers
+- Why Do Immigrants Work at Lower-Paying Firms? Evidence from Job Search and Hiring
 
 ## Non-academic Publication
 
