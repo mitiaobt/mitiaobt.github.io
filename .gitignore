@@ -12,3 +12,8 @@ Gemfile.lock
 node_modules
 package-lock.json
 .Rproj.user
+
+# Reference sites and macOS files, not part of the website
+examples/
+.DS_Store
+.claude/
