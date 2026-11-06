@@ -135,6 +135,7 @@ footer p { margin: 0 0 4px; }
 
 /* Phones: photo at the top left next to the name, then everything in one column */
 @media (max-width: 760px) {
+  .site-header nav a[href="#about"] { display: none; } /* About is already at the top on phones */
   main.wrap { display: block; }
   .side {
     position: static;
