@@ -1,16 +1,17 @@
 :root {
   --orange: #f47c44;      /* Phi Adajar's orange: rules, hovers, accents */
-  --orange-dark: #c25019; /* same hue, dark enough to read as text */
-  --orange-tint: #fef3ed;
+  --orange-dark: #bd4d17; /* same hue, dark enough to read as text */
+  --orange-tint: #fbeee4;
+  --bg: #fbf8f2;          /* warm cream page background */
   --text: #1f2328;
   --muted: #5b6470;
-  --border: #e4e2df;
+  --border: #e5dfd5;
   --sans: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
-body { margin: 0; background: #fff; color: var(--text); font: 17px/1.65 var(--sans); }
+body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.65 var(--sans); }
 a { color: var(--orange-dark); text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: 3px; }
 :focus-visible { outline: 2px solid var(--orange-dark); outline-offset: 2px; }
@@ -19,7 +20,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 /* Top bar */
 .site-header {
   position: sticky; top: 0; z-index: 10;
-  background: #fff;
+  background: var(--bg);
   border-bottom: 1px solid var(--border);
 }
 .site-header .wrap { display: flex; justify-content: space-between; align-items: center; gap: 16px; min-height: 54px; }
@@ -71,7 +72,7 @@ h1 { margin: 16px 0 0; font: 600 1.5rem/1.15 var(--sans); }
 .actions a {
   display: flex; align-items: center; gap: 9px;
   padding: 5px 14px;
-  border: 1px solid #d3cfca; border-radius: 999px;
+  border: 1px solid #d8d0c3; border-radius: 999px;
   color: var(--muted); font-size: .9rem; line-height: 1.4;
 }
 .actions a:hover, .actions a.copied { border-color: var(--orange); color: var(--orange-dark); text-decoration: none; }
@@ -108,7 +109,7 @@ h2 {
 .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
 .chip {
   padding: 3px 14px;
-  border: 1px solid #d3cfca; border-radius: 999px;
+  border: 1px solid #d8d0c3; border-radius: 999px;
   background: none; color: var(--muted);
   font: .82rem/1.5 var(--sans);
   cursor: pointer;
